@@ -1,5 +1,3 @@
 # project-ListadeEspera
 
-
-
-Testando se consigo fazer push direto
+Testando se consigo fazer push direto (develop)
